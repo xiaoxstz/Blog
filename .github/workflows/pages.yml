@@ -28,7 +28,7 @@ jobs:
             ${{ runner.OS }}-npm-cache
       - name: Install Dependencies
         run: npm install
-
+      # if hexo-renderer-pandoc is required
       - name: Install Pandoc
         shell: bash
         run: |
