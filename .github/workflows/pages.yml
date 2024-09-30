@@ -1,4 +1,5 @@
-# 来源：https://hexo.io/docs/github-pages
+# 参考：https://hexo.io/docs/github-pages
+# 本配置文件，可以将使用 Hexo 创建的 Blog 发布到此仓库的 GitHub Pages
 name: Pages
 
 on:
