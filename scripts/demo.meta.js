@@ -2,6 +2,7 @@
 // @name         My Test Script
 // @namespace    https://example.com/
 // @version      0.0.1
+// @description  Test auto update
 // @match        https://www.google.com/*
 // @updateURL    https://raw.githubusercontent.com/xiaoxstz/Blog/main/scripts/demo.meta.js
 // @downloadURL  https://raw.githubusercontent.com/xiaoxstz/Blog/main/scripts/demo.user.js
